@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+body {
+  margin: 0;
+  background: rgb(154, 15, 134);
+  background: linear-gradient(
+    291deg,
+    rgba(154, 15, 134, 1) 0%,
+    rgba(68, 91, 166, 1) 100%
+  );
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}

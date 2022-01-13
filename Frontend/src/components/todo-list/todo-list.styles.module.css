@@ -1,0 +1,11 @@
+.list {
+  width: 60%;
+  margin: 20px auto 0;
+}
+
+.message {
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}

@@ -1,0 +1,11 @@
+.header {
+  height: 100px;
+  display: flex;
+}
+
+.header h1 {
+  display: inline-block;
+  color: white;
+  margin: auto;
+  text-shadow: rgba(137, 214, 250, 1) 0px 0px 32px;
+}
